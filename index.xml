@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阿鹏杂俎</title>
+    <link>https://www.huangweipeng.cn/</link>
+    <description>Recent content on 阿鹏杂俎</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 01 Jun 2019 13:14:20 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.huangweipeng.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>https://www.huangweipeng.cn/about/</link>
+      <pubDate>Sat, 01 Jun 2019 13:14:20 +0800</pubDate>
+      
+      <guid>https://www.huangweipeng.cn/about/</guid>
+      <description>个人信息 姓名：黄伟鹏 英文名：Vic 生日：1995 年 11 月 11 日「光棍节」 职业：程序猿「PHP 是世界上最好的语言」 代码改变世界可能很难，但做一些有趣的事情可能正好。 关于博客 初中时开始接触到 WordPress</description>
+    </item>
+    
+  </channel>
+</rss>

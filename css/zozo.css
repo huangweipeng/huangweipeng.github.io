@@ -184,6 +184,14 @@ hr {
   color: #000000;
 }
 
+.post_page .post .post_footer {
+  padding: 40px 0;
+}
+
+.post_page .markdown p {
+  margin-bottom: 1em;
+}
+
 .post {
   background-color: #ffffff;
   margin-top: 50px;

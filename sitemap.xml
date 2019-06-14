@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.huangweipeng.cn/posts/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/tags/seo/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/tags/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/posts/url-standard/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.huangweipeng.cn/tags/canvas/</loc>
     <lastmod>2019-06-14T14:30:58+08:00</lastmod>
     <priority>0</priority>
@@ -15,26 +44,8 @@
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/posts/</loc>
+    <loc>https://www.huangweipeng.cn/posts/live-2d/</loc>
     <lastmod>2019-06-14T14:30:58+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/tags/</loc>
-    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/posts/live2d/</loc>
-    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/</loc>
-    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

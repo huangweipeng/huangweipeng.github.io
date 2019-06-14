@@ -3,23 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.huangweipeng.cn/about/</loc>
-    <lastmod>2019-06-01T13:14:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/</loc>
-    <lastmod>2019-06-01T13:14:20+08:00</lastmod>
+    <loc>https://www.huangweipeng.cn/tags/canvas/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/categories/</loc>
+    <loc>https://www.huangweipeng.cn/tags/javascript/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/posts/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.huangweipeng.cn/tags/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/posts/live2d/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/about/</loc>
+    <lastmod>2019-06-01T13:14:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.cn/categories/</loc>
     <priority>0</priority>
   </url>
   

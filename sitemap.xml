@@ -1,61 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.huangweipeng.cn/posts/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/tags/seo/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/tags/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.cn/posts/url-standard/</loc>
+    <loc>https://www.huangweipeng.me/posts/</loc>
     <lastmod>2019-06-14T16:08:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/</loc>
+    <loc>https://www.huangweipeng.me/tags/seo/</loc>
     <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/tags/canvas/</loc>
-    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.huangweipeng.me/tags/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/tags/javascript/</loc>
-    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.huangweipeng.me/posts/url-standard/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/posts/live-2d/</loc>
+    <loc>https://www.huangweipeng.me/</loc>
+    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/tags/canvas/</loc>
     <lastmod>2019-06-14T14:30:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/about/</loc>
+    <loc>https://www.huangweipeng.me/tags/javascript/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/posts/live-2d/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/about/</loc>
     <lastmod>2019-06-01T13:14:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.cn/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.huangweipeng.me/categories/</loc>
   </url>
   
 </urlset>

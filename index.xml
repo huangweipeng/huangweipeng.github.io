@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>阿鹏杂俎</title>
-    <link>https://www.huangweipeng.cn/</link>
+    <link>https://www.huangweipeng.me/</link>
     <description>Recent content on 阿鹏杂俎</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 14 Jun 2019 16:08:28 +0800</lastBuildDate>
     
-	<atom:link href="https://www.huangweipeng.cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.huangweipeng.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>如何定义好一个符合规范的 URL</title>
-      <link>https://www.huangweipeng.cn/posts/url-standard/</link>
+      <link>https://www.huangweipeng.me/posts/url-standard/</link>
       <pubDate>Fri, 14 Jun 2019 16:08:28 +0800</pubDate>
       
-      <guid>https://www.huangweipeng.cn/posts/url-standard/</guid>
+      <guid>https://www.huangweipeng.me/posts/url-standard/</guid>
       <description>为什么需要 URL 规范化 网站 URL 和结构已经成为网站搜索引擎友好的最大基础性问题，网站 URL 和结构问题，早发现早优化，越是往后放，最后就成了制约网站运营和产品开发的决定性因素。 无论是网站的可用性还是网站对搜索引擎的</description>
     </item>
     
     <item>
       <title>为自己的博客加上一直萌萌的看板娘</title>
-      <link>https://www.huangweipeng.cn/posts/live-2d/</link>
+      <link>https://www.huangweipeng.me/posts/live-2d/</link>
       <pubDate>Fri, 14 Jun 2019 14:30:58 +0800</pubDate>
       
-      <guid>https://www.huangweipeng.cn/posts/live-2d/</guid>
+      <guid>https://www.huangweipeng.me/posts/live-2d/</guid>
       <description>科普 Live2D 是一种应用于电子游戏的绘图渲染技术，技术由日本 Cybernoids 公司开发。Live2D Cubism 的工作原理是通过将一系列的 2D 图像进行平移、旋转和变形等操作，生成一个具有自然动画效果的可动人物模型。由于 Live2D 只需一系列 2D 原图</description>
     </item>
     
     <item>
       <title>关于</title>
-      <link>https://www.huangweipeng.cn/about/</link>
+      <link>https://www.huangweipeng.me/about/</link>
       <pubDate>Sat, 01 Jun 2019 13:14:20 +0800</pubDate>
       
-      <guid>https://www.huangweipeng.cn/about/</guid>
+      <guid>https://www.huangweipeng.me/about/</guid>
       <description>个人信息 姓名：黄伟鹏 英文名：Vic 生日：1995 年 11 月 11 日「光棍节」 职业：程序猿「PHP 是世界上最好的语言」 代码改变世界可能很难，但做一些有趣的事情可能正好。 关于博客 初中时开始接触到 WordPress</description>
     </item>
     

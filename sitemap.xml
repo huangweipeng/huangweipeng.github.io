@@ -4,7 +4,22 @@
   
   <url>
     <loc>https://www.huangweipeng.me/posts/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
+    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/tags/</loc>
+    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/posts/20200229/</loc>
+    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/tags/%E9%97%B0%E5%B9%B4/</loc>
+    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
   </url>
   
   <url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.me/tags/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.huangweipeng.me/posts/url-standard/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/</loc>
     <lastmod>2019-06-14T16:08:28+08:00</lastmod>
   </url>
   
@@ -44,6 +49,11 @@
   
   <url>
     <loc>https://www.huangweipeng.me/about/</loc>
+    <lastmod>2019-06-01T13:14:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.huangweipeng.me/</loc>
     <lastmod>2019-06-01T13:14:20+08:00</lastmod>
   </url>
   

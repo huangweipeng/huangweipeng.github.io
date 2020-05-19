@@ -3,62 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.huangweipeng.me/posts/</loc>
-    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/tags/</loc>
-    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/posts/20200229/</loc>
-    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/tags/%E9%97%B0%E5%B9%B4/</loc>
-    <lastmod>2020-02-29T23:36:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/tags/seo/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/posts/url-standard/</loc>
-    <lastmod>2019-06-14T16:08:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/tags/canvas/</loc>
+    <loc>https://www.wongwp.com/tags/canvas/</loc>
     <lastmod>2019-06-14T14:30:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.me/tags/javascript/</loc>
+    <loc>https://www.wongwp.com/tags/javascript/</loc>
     <lastmod>2019-06-14T14:30:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.me/posts/live-2d/</loc>
+    <loc>https://www.wongwp.com/posts/</loc>
     <lastmod>2019-06-14T14:30:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.me/about/</loc>
+    <loc>https://www.wongwp.com/tags/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wongwp.com/posts/live-2d/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wongwp.com/</loc>
+    <lastmod>2019-06-14T14:30:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.wongwp.com/about/</loc>
     <lastmod>2019-06-01T13:14:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.huangweipeng.me/</loc>
-    <lastmod>2019-06-01T13:14:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.huangweipeng.me/categories/</loc>
+    <loc>https://www.wongwp.com/categories/</loc>
   </url>
   
 </urlset>

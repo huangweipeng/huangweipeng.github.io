@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 阿鹏杂俎</title>
-    <link>https://www.huangweipeng.me/posts/</link>
+    <link>https://www.wongwp.com/posts/</link>
     <description>Recent content in Posts on 阿鹏杂俎</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Feb 2020 23:36:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 14:30:58 +0800</lastBuildDate>
     
-	<atom:link href="https://www.huangweipeng.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.wongwp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>下一个 2 月 29 日就要 2024 年了</title>
-      <link>https://www.huangweipeng.me/posts/20200229/</link>
-      <pubDate>Sat, 29 Feb 2020 23:36:44 +0800</pubDate>
-      
-      <guid>https://www.huangweipeng.me/posts/20200229/</guid>
-      <description>4 年后的 2 月 29 日，那时我已经是差一步便步入三十的人了。 都说三十而立，现在依旧平淡无奇，想想四年前刚毕业两年，对未来还是充满美好的愿景，觉得将来会有一番不小成就，会做出一番事业。 四年过去了，这四年除了薪</description>
-    </item>
-    
-    <item>
-      <title>如何定义好一个符合规范的 URL</title>
-      <link>https://www.huangweipeng.me/posts/url-standard/</link>
-      <pubDate>Fri, 14 Jun 2019 16:08:28 +0800</pubDate>
-      
-      <guid>https://www.huangweipeng.me/posts/url-standard/</guid>
-      <description>为什么需要 URL 规范化 网站 URL 和结构已经成为网站搜索引擎友好的最大基础性问题，网站 URL 和结构问题，早发现早优化，越是往后放，最后就成了制约网站运营和产品开发的决定性因素。 无论是网站的可用性还是网站对搜索引擎的</description>
-    </item>
     
     <item>
       <title>为自己的博客加上一直萌萌的看板娘</title>
-      <link>https://www.huangweipeng.me/posts/live-2d/</link>
+      <link>https://www.wongwp.com/posts/live-2d/</link>
       <pubDate>Fri, 14 Jun 2019 14:30:58 +0800</pubDate>
       
-      <guid>https://www.huangweipeng.me/posts/live-2d/</guid>
+      <guid>https://www.wongwp.com/posts/live-2d/</guid>
       <description>科普 Live2D 是一种应用于电子游戏的绘图渲染技术，技术由日本 Cybernoids 公司开发。Live2D Cubism 的工作原理是通过将一系列的 2D 图像进行平移、旋转和变形等操作，生成一个具有自然动画效果的可动人物模型。由于 Live2D 只需一系列 2D 原图</description>
     </item>
     

@@ -792,11 +792,3 @@ a.back_to_top:hover span {
 }
 
 /*animation ends*/
-
-#live2d {
-    left: 0;
-    bottom: 0;
-    z-index: 520; /* 如果模型被遮住可以把它改的更大 */
-    position: fixed;
-    pointer-events: none; /* 防止遮住鼠标点击页面其他内容 */
-}
